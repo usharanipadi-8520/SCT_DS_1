@@ -15,6 +15,10 @@ This project analyzes the population distribution of various countries using dem
 - Created bar chart for visualization
 - Analyzed and interpreted the results
 
+## Dataset
+Dataset Name: World population
+formate:CSV file
+
 ## Tools & Technologies
 - Python
 - Pandas
